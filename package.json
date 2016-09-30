@@ -1,0 +1,26 @@
+{
+  "name": "knserial",
+  "description": "Kmrweb.net serial communication module",
+  "keywords": [
+    "UART",
+    "serial"
+  ],
+  "homepage": "http://www.kmrweb.net/server/usbcontrol.html",
+  "license": "MIT",
+  "version": "0.1.0",
+  "author": {
+    "name": "michihiro kimura",
+    "email": "kimura@kmrweb.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.org/m0kimura/knserial.git"
+  },
+  "dependencies": {
+    "knuty": "latest"
+  },
+  "engines": {
+    "node": ">=0.5.2"
+  },
+  "main": "./knserial.js"
+}
