@@ -17,7 +17,8 @@
     "url": "git://github.org/m0kimura/knserial.git"
   },
   "dependencies": {
-    "knuty": "latest"
+    "knuty": "latest",
+    "serialport": "^4.0.1"
   },
   "engines": {
     "node": ">=0.5.2"
